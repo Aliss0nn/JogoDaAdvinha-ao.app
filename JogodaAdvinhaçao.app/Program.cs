@@ -93,19 +93,6 @@ namespace JogodaAdvinhaçao.app
             Console.WriteLine();
             
             Console.ReadLine();
-
-           
-
-
-
-
-
-
-
-
-
-
-
-
-        }
-    }   }
+          }
+     }
+}   
