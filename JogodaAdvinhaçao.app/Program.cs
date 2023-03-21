@@ -8,7 +8,7 @@ namespace JogodaAdvinhaçao.app
         static void Main(string[] args)
         {
             Random numeroAleatorio = new Random();
-            int num = numeroAleatorio.Next(1, 20);
+            int num = numeroAleatorio.Next(1, 21);
             Console.WriteLine(num);
             Console.WriteLine("***********************************");
             Console.Write("Bem Vindo(a) ao Jogo da Adivinhação\n");
